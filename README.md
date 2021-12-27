@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvenuti nel nostro blog
 
 You can use the [editor on GitHub](https://github.com/10informatici/10informatici.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
